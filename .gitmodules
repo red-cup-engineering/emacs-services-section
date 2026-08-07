@@ -1,3 +1,0 @@
-[submodule "lib/legacy"]
-	path = lib/legacy
-	url = https://github.com/red-cup-engineering/emacs-services-legacy.git
